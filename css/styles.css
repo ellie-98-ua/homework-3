@@ -102,6 +102,7 @@ body {
 
 .hero-section {
     background-color: #2E2F42;
+    margin-bottom: 120px;
 }
 
 .hero-title {
@@ -112,10 +113,10 @@ body {
     line-height: 1.07;
     letter-spacing: 0.02em;
     text-transform: capitalize;
+    margin-bottom: 48px;
 }
 
 .hero-section-cta {
-    all: unset;
     color: #FFFFFF;
     background-color: #4D5AE5;
     font-size: 16px;
@@ -131,7 +132,7 @@ body {
     color: #f0f0f0;
 }
 
-.second-title {
+.team-title {
     color: #2E2F42;
     text-align: center;
     font-size: 36px;
@@ -141,6 +142,13 @@ body {
     text-transform: capitalize;
 }
 
+.features {
+    padding-top: 120px;
+    padding-bottom: 120px;
+}
+
+.features-list {}
+
 .features-title {
     color: #2E2F42;
     font-size: 20px;
@@ -149,6 +157,7 @@ body {
     line-height: 1.2;
     letter-spacing: 0.02em;
     text-transform: capitalize;
+    margin-bottom: 8px;
 }
 
 .features-text {
@@ -159,8 +168,19 @@ body {
     color: #434455;
 }
 
+.second-title {
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1.11111;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #2e2f42;
+    padding-bottom: 72px;
+}
 .our-team {
     background-color: #F4F4FD;
+    padding-top: 120px;
+    padding-bottom: 120px;
 }
 
 .team-item {
@@ -176,6 +196,7 @@ body {
     letter-spacing: 0.02em;
     text-transform: capitalize;
     text-align: center;
+    padding-bottom: 8px;
 }
 
 .team-text {
@@ -199,6 +220,7 @@ body {
     line-height: 1.2;
     letter-spacing: 0.02em;
     text-transform: capitalize;
+    padding-bottom: 8px;
 }
 
 .portfolio-text {
