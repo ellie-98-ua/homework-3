@@ -1,5 +1,7 @@
 ul {
     list-style-type: none;
+    margin: o;
+    padding: 0;
 }
 
 li {
@@ -8,6 +10,21 @@ li {
 
 a {
     text-decoration: none;
+}
+
+button {
+    cursor: pointer;
+}
+
+p, h1, h2, h3, h4 {
+   margin: 0;
+}
+
+.container {
+    width: 1128px;
+    padding-left: 156px;
+    padding-right: 156px;
+    margin: 0 auto;
 }
 
 body {
