@@ -236,7 +236,6 @@ body {
 
 .team-title {
     color: #2E2F42;
-    text-align: center;
     font-size: 20px;
     font-weight: 500;
     line-height: 1.2;
@@ -247,12 +246,13 @@ body {
 }
 
 .team-text {
+    color: #434455;
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     text-align: center;
-    color: #434455;
+    margin-bottom: 8;
 }
 
 .team-container {
@@ -265,7 +265,11 @@ body {
 }
 
 .team-content {
-   border: ;
+    box-shadow: 0 2px 1px 0 rgba(46, 47, 66, 0.08), 0 1px 1px 0 rgba(46, 47, 66, 0.16), 0 1px 6px 0 rgba(46, 47, 66, 0.08);
+    background: #fff;
+    border-radius: 0 0 4px 4px;
+    padding: 32px 0;
+   
 }
 
 .our-portfolio {
