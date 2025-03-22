@@ -228,6 +228,7 @@ body {
     color: #2e2f42;
     margin-bottom: 72px;
 }
+
 .our-team {
     background-color: #F4F4FD;
     padding-top: 120px;
@@ -262,12 +263,12 @@ body {
 
 .team-item {
     width: calc((100% - 72px) / 4);
+    border-radius: 0px 0px 4px 4px;
 }
 
 .team-content {
     box-shadow: 0 2px 1px 0 rgba(46, 47, 66, 0.08), 0 1px 1px 0 rgba(46, 47, 66, 0.16), 0 1px 6px 0 rgba(46, 47, 66, 0.08);
     background: #fff;
-    border-radius: 0px 0px 4px 4px;
     padding: 32px 0;
    
 }
