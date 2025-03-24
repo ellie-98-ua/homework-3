@@ -132,8 +132,8 @@ body {
 
 .hero-section {
     background-color: #2E2F42;
-    margin-bottom: 120px;
-    padding: 188px 0;
+    padding: 188px 0 180px;
+    height: 600px;
 }
 
 .hero-title {
@@ -165,6 +165,7 @@ body {
     display: block;
     margin: 0 auto;
     justify-content: space-between;
+    margin-bottom: 180px;
 }
 
 .hero-section-cta:focus,
@@ -187,7 +188,7 @@ body {
 }
 
 .features {
-    padding: 120px 0;
+    padding: 120px 0 120px;
 }
 
 .features-list {
@@ -231,8 +232,7 @@ body {
 
 .our-team {
     background-color: #F4F4FD;
-    padding-top: 120px;
-    padding-bottom: 120px;
+    padding: 120px 0 120px;
 }
 
 .team-title {
