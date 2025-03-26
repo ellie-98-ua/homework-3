@@ -115,8 +115,8 @@ body {
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4D5AE5;
-    margin: 24px 0;
-    padding-right: 76px;
+    padding: 24px 0;
+    margin-right: 76px;
 }
 
 .logo-part-two {
@@ -226,7 +226,7 @@ body {
     text-align: center;
     text-transform: capitalize;
     color: #2e2f42;
-    padding-bottom: 72px;
+    margin-bottom: 72px;
 }
 
 .our-team {
