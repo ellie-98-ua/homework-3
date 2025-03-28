@@ -334,12 +334,9 @@ body {
     line-height: 1.5;
     letter-spacing: 0.02em;
     margin-top: 16px;
+    max-width: 264px;
 }
 
 .logo-link {
     display: inline-block;
-}
-
-.footer-info {
-    max-width: 264px;
 }
