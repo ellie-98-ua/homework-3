@@ -270,6 +270,8 @@ body {
 .team-content {
     background-color: #fff;
     padding: 32px 0;
+    padding-left: 16px;
+    padding-right: 16px;
 }
 
 .our-portfolio {
@@ -307,6 +309,8 @@ body {
     padding: 32px 16px;
     border: 1px solid #e7e9fc;
     border-top: none;
+    padding-left: 16px;
+    padding-right: 16px;
 }
 
 .portfolio-item {
@@ -329,13 +333,13 @@ body {
     font-weight: 400;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    max-width: 264px;
+    margin-top: 16px;
 }
 
 .logo-link {
     display: inline-block;
 }
 
-.logo-footer {
-    margin-bottom: 16px;
+.footer-info {
+    max-width: 264px;
 }
