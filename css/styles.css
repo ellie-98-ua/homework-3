@@ -106,6 +106,10 @@ body {
     color: #404bbf;
 }
 
+.logo-header {
+    margin-right: 76px;
+}
+
 .logo-part-one {
     font-family: "Raleway", sans-serif;
     font-style: normal;
@@ -115,8 +119,7 @@ body {
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4D5AE5;
-    padding: 24px 0;
-    margin-right: 76px;
+    padding: 1.5px 0;
 }
 
 .logo-part-two {
@@ -143,8 +146,7 @@ body {
     letter-spacing: 0.02em;
     text-transform: capitalize;
     max-width: 496px;
-    padding-bottom: 56px;
-    margin: 0 auto;
+    margin: 0 auto 56px;
     text-align: center;
 }
 
@@ -225,7 +227,7 @@ body {
     text-align: center;
     text-transform: capitalize;
     color: #2e2f42;
-    margin-bottom: 72px;
+    margin: 0 auto 72px;
 }
 
 .our-team {
@@ -257,7 +259,6 @@ body {
 .team-container {
     display: flex;
     gap: 24px;
-    margin: 32px 0;
 }
 
 .team-item {
@@ -267,7 +268,7 @@ body {
 }
 
 .team-content {
-    background: #fff;
+    background-color: #fff;
     padding: 32px 0;
 }
 
@@ -329,10 +330,12 @@ body {
     line-height: 1.5;
     letter-spacing: 0.02em;
     max-width: 264px;
-    margin-top: 16px;
 }
 
 .logo-link {
     display: inline-block;
+}
+
+.logo-footer {
     margin-bottom: 16px;
 }
